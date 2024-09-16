@@ -1,17 +1,3 @@
-## 0.6.1
-* Thanks for Alberto-Monteiro
-  - refactor code
-
-## 0.6.0
-* Thanks for Alberto-Monteiro
-  - refactor code
-
-* Thanks for Alberto-Monteiro
-  - **Breaking change**: `VideoThumbnail.thumbnailFile` now returns `Future<XFile>` instead of `Future<String?>`
-  - **Breaking change**: `VideoThumbnail.thumbnailData` now returns `Future<Uint8List>` instead of `Future<Uint8List?>`
-  - migrating to use platform interface
-  - add web implementation
-
 ## 0.5.3
 * Thanks Ajb Coder for:
   -   Fix: IOException on runtime
